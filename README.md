@@ -28,4 +28,6 @@ Open each code file in VSCode to view line number.
    hide_merch, hide_non_lists, hide_notification_bell, hide_recommended, hide_related_videos, hide_secondary_content, hide_sidebar_contents, hide_subbar, hide_comments, hide_feed.
    
 7) Temp. removed 'images' folder from the main folder.
+
+8)"Fonts" Folder not uploaded in css folder. 
    
